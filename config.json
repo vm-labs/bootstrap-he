@@ -105,7 +105,7 @@
     "@dropdown-fallback-border": "#ccc",
     "@dropdown-divider-bg": "#e5e5e5",
     "@dropdown-link-color": "#666",
-    "@dropdown-link-hover-color": "#e8f0f5",
+    "@dropdown-link-hover-color": "#666",
     "@dropdown-link-hover-bg": "#f5f5f5",
     "@dropdown-link-active-color": "@component-active-color",
     "@dropdown-link-active-bg": "@component-active-bg",
@@ -149,7 +149,7 @@
     "@navbar-default-link-color": "#fff",
     "@navbar-default-link-hover-color": "#15e7e4",
     "@navbar-default-link-hover-bg": "transparent",
-    "@navbar-default-link-active-color": "#555",
+    "@navbar-default-link-active-color": "#fff",
     "@navbar-default-link-active-bg": "darken(@navbar-default-bg, 6.5%)",
     "@navbar-default-link-disabled-color": "#ccc",
     "@navbar-default-link-disabled-bg": "transparent",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=e9077c2288d309f1942b"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=91c5242ed00698c5c468"
 }
