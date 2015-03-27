@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=febb969d87fbe7ff2955)
- * Config saved to config.json and https://gist.github.com/febb969d87fbe7ff2955
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=84123caf142a2300711c)
+ * Config saved to config.json and https://gist.github.com/84123caf142a2300711c
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1594,7 +1594,7 @@ pre code {
 }
 @media (min-width: 1300px) {
   .container {
-    width: 1200px;
+    width: 1160px;
   }
 }
 .container-fluid {
@@ -5837,7 +5837,7 @@ button.close {
 }
 @media (min-width: 1300px) {
   .modal-lg {
-    width: 1160px;
+    width: 1120px;
   }
 }
 .tooltip {

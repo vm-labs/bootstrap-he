@@ -135,7 +135,7 @@
     "@container-sm": "@container-tablet",
     "@container-desktop": "100%",
     "@container-md": "@container-desktop",
-    "@container-large-desktop": "1200px",
+    "@container-large-desktop": "1160px",
     "@container-lg": "@container-large-desktop",
     "@navbar-height": "60px",
     "@navbar-margin-bottom": "@line-height-computed",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=febb969d87fbe7ff2955"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=84123caf142a2300711c"
 }
