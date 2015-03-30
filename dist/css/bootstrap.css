@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=2ab94a8e23b025d56223)
- * Config saved to config.json and https://gist.github.com/2ab94a8e23b025d56223
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c7c83f7def4667e47669)
+ * Config saved to config.json and https://gist.github.com/c7c83f7def4667e47669
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -3886,7 +3886,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 0 3px;
+  padding: 5px 15px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
