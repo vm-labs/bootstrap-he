@@ -13,7 +13,7 @@
     "@brand-danger": "#d94832",
     "@body-bg": "#fff",
     "@text-color": "@gray-dark",
-    "@link-color": "@brand-primary",
+    "@link-color": "@brand-info",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "underline",
     "@font-family-sans-serif": "'Open SaontAwesome, sans-serns', Fif",
@@ -187,7 +187,7 @@
     "@nav-tabs-justified-link-border-color": "transparent",
     "@nav-tabs-justified-active-link-border-color": "transparent",
     "@nav-pills-border-radius": "0",
-    "@nav-pills-active-link-hover-bg": "@brand-info",
+    "@nav-pills-active-link-hover-bg": "transparent",
     "@nav-pills-active-link-hover-color": "@brand-info",
     "@pagination-color": "@link-color",
     "@pagination-bg": "#fff",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=1917f548f5531ee2f19d"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=2ab94a8e23b025d56223"
 }
