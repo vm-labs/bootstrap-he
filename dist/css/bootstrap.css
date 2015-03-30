@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c7c83f7def4667e47669)
- * Config saved to config.json and https://gist.github.com/c7c83f7def4667e47669
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=03e04cd10d3be6744be1)
+ * Config saved to config.json and https://gist.github.com/03e04cd10d3be6744be1
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1106,8 +1106,8 @@ a {
 }
 a:hover,
 a:focus {
-  color: #153e60;
-  text-decoration: underline;
+  color: #398fd5;
+  text-decoration: none;
 }
 a:focus {
   outline: thin dotted;
@@ -3332,8 +3332,8 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #153e60;
-  text-decoration: underline;
+  color: #398fd5;
+  text-decoration: none;
   background-color: transparent;
 }
 .btn-link[disabled]:hover,
@@ -4647,7 +4647,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #153e60;
+  color: #398fd5;
   background-color: #eeeeee;
   border-color: #dddddd;
 }
