@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=699210b4b50fc10f3ff3)
- * Config saved to config.json and https://gist.github.com/699210b4b50fc10f3ff3
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0a9bd1867b0156752713)
+ * Config saved to config.json and https://gist.github.com/0a9bd1867b0156752713
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -3919,7 +3919,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   max-width: none;
 }
 .nav-tabs {
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid #eeeeee;
 }
 .nav-tabs > li {
   float: left;
@@ -3932,14 +3932,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-radius: 4px 4px 0 0;
 }
 .nav-tabs > li > a:hover {
-  border-color: transparent transparent transparent;
+  border-color: #eeeeee #eeeeee #eeeeee;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #2c96af;
+  color: #0e2e54;
   background-color: none;
-  border: 1px solid #2c96af;
+  border: 1px solid #eeeeee;
   border-bottom-color: transparent;
   cursor: default;
 }
@@ -3974,17 +3974,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs.nav-justified > .active > a,
 .nav-tabs.nav-justified > .active > a:hover,
 .nav-tabs.nav-justified > .active > a:focus {
-  border: 1px solid transparent;
+  border: 1px solid #eeeeee;
 }
 @media (min-width: 800px) {
   .nav-tabs.nav-justified > li > a {
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #eeeeee;
     border-radius: 4px 4px 0 0;
   }
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: transparent;
+    border-bottom-color: #eeeeee;
   }
 }
 .nav-pills > li {
@@ -4042,17 +4042,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs-justified > .active > a,
 .nav-tabs-justified > .active > a:hover,
 .nav-tabs-justified > .active > a:focus {
-  border: 1px solid transparent;
+  border: 1px solid #eeeeee;
 }
 @media (min-width: 800px) {
   .nav-tabs-justified > li > a {
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #eeeeee;
     border-radius: 4px 4px 0 0;
   }
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: transparent;
+    border-bottom-color: #eeeeee;
   }
 }
 .tab-content > .tab-pane {

@@ -179,13 +179,13 @@
     "@nav-link-hover-bg": "transparent",
     "@nav-disabled-link-color": "@gray-light",
     "@nav-disabled-link-hover-color": "@gray-light",
-    "@nav-tabs-border-color": "transparent",
-    "@nav-tabs-link-hover-border-color": "transparent",
+    "@nav-tabs-border-color": "#eee",
+    "@nav-tabs-link-hover-border-color": "#eee",
     "@nav-tabs-active-link-hover-bg": "none",
-    "@nav-tabs-active-link-hover-color": "#2c96af",
-    "@nav-tabs-active-link-hover-border-color": "#2c96af",
-    "@nav-tabs-justified-link-border-color": "transparent",
-    "@nav-tabs-justified-active-link-border-color": "transparent",
+    "@nav-tabs-active-link-hover-color": "@brand-primary",
+    "@nav-tabs-active-link-hover-border-color": "#eee",
+    "@nav-tabs-justified-link-border-color": "#eee",
+    "@nav-tabs-justified-active-link-border-color": "#eee",
     "@nav-pills-border-radius": "0",
     "@nav-pills-active-link-hover-bg": "transparent",
     "@nav-pills-active-link-hover-color": "@brand-info",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=699210b4b50fc10f3ff3"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=0a9bd1867b0156752713"
 }
