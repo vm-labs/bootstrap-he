@@ -22,7 +22,7 @@
     "@font-family-base": "@font-family-sans-serif",
     "@font-size-base": "14px",
     "@font-size-large": "ceil((@font-size-base * 1.25))",
-    "@font-size-small": "ceil((@font-size-base * 0.85))",
+    "@font-size-small": "13px",
     "@font-size-h1": "36px",
     "@font-size-h2": "24px",
     "@font-size-h3": "18px",
@@ -249,7 +249,7 @@
     "@label-danger-bg": "@brand-danger",
     "@label-color": "#fff",
     "@label-link-hover-color": "#fff",
-    "@modal-inner-padding": "20px",
+    "@modal-inner-padding": "60px 20px 50px",
     "@modal-title-padding": "20px",
     "@modal-title-line-height": "@line-height-base",
     "@modal-content-bg": "#fff",
@@ -355,8 +355,8 @@
     "@carousel-indicator-border-color": "#fff",
     "@carousel-caption-color": "#fff",
     "@close-font-weight": "bold",
-    "@close-color": "#000",
-    "@close-text-shadow": "0 1px 0 #fff",
+    "@close-color": "#fff",
+    "@close-text-shadow": "none",
     "@code-color": "#c7254e",
     "@code-bg": "#f9f2f4",
     "@kbd-color": "#fff",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=0a9bd1867b0156752713"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=23117cf2be7f5125c15a"
 }
