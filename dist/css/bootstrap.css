@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=23117cf2be7f5125c15a)
- * Config saved to config.json and https://gist.github.com/23117cf2be7f5125c15a
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=d153200d684170434014)
+ * Config saved to config.json and https://gist.github.com/d153200d684170434014
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -3443,7 +3443,7 @@ tbody.collapse.in {
   text-align: left;
   background-color: #ffffff;
   border: 1px solid #cccccc;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 1px solid #22679f;
   border-radius: 4px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
@@ -3478,10 +3478,10 @@ tbody.collapse.in {
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-  color: #ffffff;
+  color: #666666;
   text-decoration: none;
   outline: 0;
-  background-color: #0e2e54;
+  background-color: #d6dee2;
 }
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
@@ -5189,8 +5189,8 @@ a.list-group-item:focus {
 .list-group-item.active:focus {
   z-index: 2;
   color: #ffffff;
-  background-color: #0e2e54;
-  border-color: #0e2e54;
+  background-color: #d6dee2;
+  border-color: #d6dee2;
 }
 .list-group-item.active .list-group-item-heading,
 .list-group-item.active:hover .list-group-item-heading,
@@ -5206,7 +5206,7 @@ a.list-group-item:focus {
 .list-group-item.active .list-group-item-text,
 .list-group-item.active:hover .list-group-item-text,
 .list-group-item.active:focus .list-group-item-text {
-  color: #4d91e1;
+  color: #ffffff;
 }
 .list-group-item-success {
   color: #3c763d;
