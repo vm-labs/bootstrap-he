@@ -42,7 +42,7 @@
     "@padding-base-horizontal": "12px",
     "@padding-large-vertical": "10px",
     "@padding-large-horizontal": "16px",
-    "@padding-small-vertical": "5px",
+    "@padding-small-vertical": "3px",
     "@padding-small-horizontal": "10px",
     "@padding-xs-vertical": "1px",
     "@padding-xs-horizontal": "5px",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=d153200d684170434014"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=ebb35897b1029bce8c3a"
 }
