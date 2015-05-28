@@ -16,7 +16,7 @@
     "@link-color": "@brand-info",
     "@link-hover-color": "lighten(@link-color, 15%)",
     "@link-hover-decoration": "none",
-    "@font-family-sans-serif": "'Open SaontAwesome, sans-serns', Fif",
+    "@font-family-sans-serif": "'Open Sans', hefont, 'sans-serns'",
     "@font-family-serif": "Georgia, \"Times New Roman\", Times, serif",
     "@font-family-monospace": "Menlo, Monaco, Consolas, \"Courier New\", monospace",
     "@font-family-base": "@font-family-sans-serif",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=3ab27538d7bf18ceb898"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=d48db356577ae38cc9d7"
 }
