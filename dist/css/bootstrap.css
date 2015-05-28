@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=ebb35897b1029bce8c3a)
- * Config saved to config.json and https://gist.github.com/ebb35897b1029bce8c3a
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=3ab27538d7bf18ceb898)
+ * Config saved to config.json and https://gist.github.com/3ab27538d7bf18ceb898
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -4963,15 +4963,15 @@ a.thumbnail.active {
   color: #2b542c;
 }
 .alert-info {
-  background-color: #d9edf7;
-  border-color: #bce8f1;
-  color: #31708f;
+  background-color: #ffffff;
+  border-color: #cccccc;
+  color: #999999;
 }
 .alert-info hr {
-  border-top-color: #a6e1ec;
+  border-top-color: #bfbfbf;
 }
 .alert-info .alert-link {
-  color: #245269;
+  color: #808080;
 }
 .alert-warning {
   background-color: #fcf8e3;
