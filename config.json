@@ -216,7 +216,7 @@
     "@jumbotron-bg": "transparent",
     "@jumbotron-heading-color": "#fff",
     "@jumbotron-font-size": "@font-size-base",
-    "@jumbotron-heading-font-size": "floor((@font-size-base * 4))",
+    "@jumbotron-heading-font-size": "54pt",
     "@state-success-text": "#3c763d",
     "@state-success-bg": "#dff0d8",
     "@state-success-border": "darken(spin(@state-success-bg, -10), 5%)",
@@ -430,5 +430,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=cffe3c629b727dacee00"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=e4c5e97a2871321be6b4"
 }
