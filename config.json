@@ -332,7 +332,7 @@
     "@thumbnail-bg": "transparent",
     "@thumbnail-border": "0",
     "@thumbnail-border-radius": "@border-radius-base",
-    "@thumbnail-caption-color": "@text-color",
+    "@thumbnail-caption-color": "#fff",
     "@thumbnail-caption-padding": "9px",
     "@well-bg": "#f5f5f5",
     "@well-border": "darken(@well-bg, 7%)",
@@ -430,5 +430,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=e4c5e97a2871321be6b4"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=aba13cdceb55a3707c20"
 }
