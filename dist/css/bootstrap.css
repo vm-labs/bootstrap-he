@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=5cd8a8e213269b74a539)
- * Config saved to config.json and https://gist.github.com/5cd8a8e213269b74a539
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=3ec2e1da0377f977c1cd)
+ * Config saved to config.json and https://gist.github.com/3ec2e1da0377f977c1cd
  */
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
@@ -1302,7 +1302,7 @@ p {
   font-weight: 300;
   line-height: 1.4;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .lead {
     font-size: 21px;
   }
@@ -1594,7 +1594,7 @@ pre code {
   padding-left: 20px;
   padding-right: 20px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .container {
     width: 100%;
   }
@@ -1781,7 +1781,7 @@ pre code {
 .col-xs-offset-0 {
   margin-left: 0%;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
     float: left;
   }
@@ -2450,7 +2450,7 @@ table th[class*="col-"] {
   overflow-x: auto;
   min-height: 0.01%;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 699px) {
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
@@ -2916,7 +2916,7 @@ select[multiple].input-lg {
   margin-bottom: 10px;
   color: #737373;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .form-inline .form-group {
     display: inline-block;
     margin-bottom: 0;
@@ -2982,7 +2982,7 @@ select[multiple].input-lg {
   margin-left: -20px;
   margin-right: -20px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .form-horizontal .control-label {
     text-align: right;
     margin-bottom: 0;
@@ -2992,13 +2992,13 @@ select[multiple].input-lg {
 .form-horizontal .has-feedback .form-control-feedback {
   right: 20px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .form-horizontal .form-group-lg .control-label {
     padding-top: 14.333333px;
     font-size: 18px;
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .form-horizontal .form-group-sm .control-label {
     padding-top: 4px;
     font-size: 13px;
@@ -4109,7 +4109,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   top: auto;
   left: auto;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .nav-tabs.nav-justified > li {
     display: table-cell;
     width: 1%;
@@ -4127,7 +4127,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs.nav-justified > .active > a:focus {
   border: 1px solid #eeeeee;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .nav-tabs.nav-justified > li > a {
     border-bottom: 1px solid #eeeeee;
     border-radius: 4px 4px 0 0;
@@ -4174,7 +4174,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   top: auto;
   left: auto;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .nav-justified > li {
     display: table-cell;
     width: 1%;
@@ -4195,7 +4195,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs-justified > .active > a:focus {
   border: 1px solid #eeeeee;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .nav-tabs-justified > li > a {
     border-bottom: 1px solid #eeeeee;
     border-radius: 4px 4px 0 0;
@@ -4429,7 +4429,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-top: 13px;
   margin-bottom: 13px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .navbar-form .form-group {
     display: inline-block;
     margin-bottom: 0;
@@ -5035,7 +5035,7 @@ a.badge:focus {
 .jumbotron .container {
   max-width: 100%;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .jumbotron {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -6021,7 +6021,7 @@ button.close {
   height: 50px;
   overflow: scroll;
 }
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
   .modal-dialog {
     width: 600px;
     margin: 30px auto;
@@ -6480,7 +6480,7 @@ button.close {
 .carousel-caption .btn {
   text-shadow: none;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .glyphicon-chevron-right,
   .carousel-control .icon-prev,
@@ -6613,7 +6613,7 @@ button.close {
 .visible-lg-inline-block {
   display: none !important;
 }
-@media (max-width: 999px) {
+@media (max-width: 699px) {
   .visible-xs {
     display: block !important;
   }
@@ -6628,22 +6628,22 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (max-width: 999px) {
+@media (max-width: 699px) {
   .visible-xs-block {
     display: block !important;
   }
 }
-@media (max-width: 999px) {
+@media (max-width: 699px) {
   .visible-xs-inline {
     display: inline !important;
   }
 }
-@media (max-width: 999px) {
+@media (max-width: 699px) {
   .visible-xs-inline-block {
     display: inline-block !important;
   }
 }
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 700px) and (max-width: 1199px) {
   .visible-sm {
     display: block !important;
   }
@@ -6658,17 +6658,17 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 700px) and (max-width: 1199px) {
   .visible-sm-block {
     display: block !important;
   }
 }
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 700px) and (max-width: 1199px) {
   .visible-sm-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 700px) and (max-width: 1199px) {
   .visible-sm-inline-block {
     display: inline-block !important;
   }
@@ -6733,12 +6733,12 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (max-width: 999px) {
+@media (max-width: 699px) {
   .hidden-xs {
     display: none !important;
   }
 }
-@media (min-width: 1000px) and (max-width: 1199px) {
+@media (min-width: 700px) and (max-width: 1199px) {
   .hidden-sm {
     display: none !important;
   }
