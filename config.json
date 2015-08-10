@@ -115,7 +115,7 @@
     "@dropdown-link-disabled-color": "@gray-light",
     "@dropdown-header-color": "@gray-light",
     "@dropdown-caret-color": "#000",
-    "@screen-xs": "570px",
+    "@screen-xs": "400px",
     "@screen-xs-min": "@screen-xs",
     "@screen-phone": "@screen-xs-min",
     "@screen-sm": "1000px",
@@ -430,5 +430,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=aba13cdceb55a3707c20"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=5cd8a8e213269b74a539"
 }
