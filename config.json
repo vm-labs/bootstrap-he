@@ -39,7 +39,7 @@
     "@icon-font-name": "\"glyphicons-halflings-regular\"",
     "@icon-font-svg-id": "\"glyphicons_halflingsregular\"",
     "@padding-base-vertical": "6px",
-    "@padding-base-horizontal": "12px",
+    "@padding-base-horizontal": "8px",
     "@padding-large-vertical": "10px",
     "@padding-large-horizontal": "16px",
     "@padding-small-vertical": "3px",
@@ -304,8 +304,8 @@
     "@list-group-link-hover-color": "@list-group-link-color",
     "@list-group-link-heading-color": "#333",
     "@panel-bg": "#fff",
-    "@panel-body-padding": "15px",
-    "@panel-heading-padding": "10px 15px",
+    "@panel-body-padding": "15px 8px",
+    "@panel-heading-padding": "10px 8px",
     "@panel-footer-padding": "@panel-heading-padding",
     "@panel-border-radius": "@border-radius-base",
     "@panel-inner-border": "#ddd",
@@ -430,5 +430,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=3ec2e1da0377f977c1cd"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=feea8a5e0969a0826a80"
 }
